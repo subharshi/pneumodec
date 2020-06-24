@@ -11,6 +11,9 @@ The disease starts as an upper respiratory tract infection shifting the infectio
 The flora of the upper respiratory tract (the nasal passages, the pharynx, paranasal sinuses, and the portion of the larynx above the vocal folds) competes with pathogens in demand for nutrients, while in the lower respiratory tract (the bronchi and bronchioles, the trachea, and the alveoli) the cough reflexes, actions of immunoglobulins and complement proteins, aid in expelling out the mucus and foreign substances [2].
 The progression of pneumonia depends on the body’s immune response to the infection, the virulence of the causative organism and the organism load of the pre-stage infection [3].
 
+Dataset Used : Chest X-Ray Images (Pneumonia) by Paul Mooney / Kaggle
+Source : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
 
 Application of Computer-aided Systems for Medical Diagnosis
 
